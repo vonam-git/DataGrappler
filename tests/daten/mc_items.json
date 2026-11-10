@@ -1,0 +1,211 @@
+[
+ {
+  "id": 0,
+  "name": "air",
+  "displayName": "Air",
+  "stackSize": 64
+ },
+ {
+  "id": 28,
+  "name": "dirt",
+  "displayName": "Dirt",
+  "stackSize": 64
+ },
+ {
+  "id": 35,
+  "name": "cobblestone",
+  "displayName": "Cobblestone",
+  "stackSize": 64
+ },
+ {
+  "id": 36,
+  "name": "oak_planks",
+  "displayName": "Oak Planks",
+  "stackSize": 64
+ },
+ {
+  "id": 41,
+  "name": "cherry_planks",
+  "displayName": "Cherry Planks",
+  "stackSize": 64
+ },
+ {
+  "id": 134,
+  "name": "oak_log",
+  "displayName": "Oak Log",
+  "stackSize": 64
+ },
+ {
+  "id": 333,
+  "name": "crafting_table",
+  "displayName": "Crafting Table",
+  "stackSize": 64
+ },
+ {
+  "id": 905,
+  "name": "iron_ingot",
+  "displayName": "Iron Ingot",
+  "stackSize": 64
+ },
+ {
+  "id": 914,
+  "name": "wooden_pickaxe",
+  "displayName": "Wooden Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "oak_planks",
+   "spruce_planks",
+   "birch_planks",
+   "jungle_planks",
+   "acacia_planks",
+   "cherry_planks",
+   "dark_oak_planks",
+   "pale_oak_planks",
+   "mangrove_planks",
+   "bamboo_planks",
+   "crimson_planks",
+   "warped_planks"
+  ],
+  "maxDurability": 59
+ },
+ {
+  "id": 919,
+  "name": "copper_pickaxe",
+  "displayName": "Copper Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "copper_ingot"
+  ],
+  "maxDurability": 190
+ },
+ {
+  "id": 924,
+  "name": "stone_pickaxe",
+  "displayName": "Stone Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "cobbled_deepslate",
+   "cobblestone",
+   "blackstone"
+  ],
+  "maxDurability": 131
+ },
+ {
+  "id": 929,
+  "name": "golden_pickaxe",
+  "displayName": "Golden Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "gold_ingot"
+  ],
+  "maxDurability": 32
+ },
+ {
+  "id": 934,
+  "name": "iron_pickaxe",
+  "displayName": "Iron Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "iron_ingot"
+  ],
+  "maxDurability": 250
+ },
+ {
+  "id": 939,
+  "name": "diamond_pickaxe",
+  "displayName": "Diamond Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "diamond"
+  ],
+  "maxDurability": 1561
+ },
+ {
+  "id": 944,
+  "name": "netherite_pickaxe",
+  "displayName": "Netherite Pickaxe",
+  "stackSize": 1,
+  "enchantCategories": [
+   "mining",
+   "mining_loot",
+   "durability",
+   "vanishing"
+  ],
+  "repairWith": [
+   "netherite_ingot"
+  ],
+  "maxDurability": 2031
+ },
+ {
+  "id": 947,
+  "name": "stick",
+  "displayName": "Stick",
+  "stackSize": 64
+ },
+ {
+  "id": 1018,
+  "name": "leather",
+  "displayName": "Leather",
+  "stackSize": 64
+ },
+ {
+  "id": 1111,
+  "name": "beef",
+  "displayName": "Raw Beef",
+  "stackSize": 64
+ },
+ {
+  "id": 1115,
+  "name": "rotten_flesh",
+  "displayName": "Rotten Flesh",
+  "stackSize": 64
+ },
+ {
+  "id": 1228,
+  "name": "carrot",
+  "displayName": "Carrot",
+  "stackSize": 64
+ },
+ {
+  "id": 1229,
+  "name": "potato",
+  "displayName": "Potato",
+  "stackSize": 64
+ }
+]

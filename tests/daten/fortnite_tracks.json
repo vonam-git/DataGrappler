@@ -1,0 +1,21 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": "Sparks_Song_1",
+   "devName": "x",
+   "title": "Neon Nights",
+   "artist": "Die Testband",
+   "album": "Erstes Album",
+   "releaseYear": 2024,
+   "bpm": 124,
+   "duration": 182,
+   "genres": [
+    "Pop",
+    "Dance"
+   ],
+   "albumArt": "https://cdn2.unrealengine.com/neon-nights-512x512.jpg",
+   "added": "2026-09-01T00:00:00Z"
+  }
+ ]
+}

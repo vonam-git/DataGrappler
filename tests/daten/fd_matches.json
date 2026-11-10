@@ -1,0 +1,30 @@
+{
+ "matches": [
+  {
+   "id": 9001,
+   "utcDate": "2024-11-30T17:30:00Z",
+   "matchday": 12,
+   "stage": "REGULAR_SEASON",
+   "group": null,
+   "homeTeam": {
+    "id": 4,
+    "name": "Borussia Dortmund"
+   },
+   "awayTeam": {
+    "id": 5,
+    "name": "FC Bayern München"
+   },
+   "score": {
+    "duration": "REGULAR",
+    "fullTime": {
+     "home": 1,
+     "away": 1
+    },
+    "halfTime": {
+     "home": 1,
+     "away": 0
+    }
+   }
+  }
+ ]
+}

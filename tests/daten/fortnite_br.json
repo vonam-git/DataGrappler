@@ -1,0 +1,312 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": "CID_028_Athena_Commando_F",
+   "name": "Renegade Raider",
+   "description": "Gnadenlose Plünderin, Wiederholungstäterin.",
+   "type": {
+    "value": "outfit",
+    "displayValue": "Outfit",
+    "backendValue": "AthenaOutfit"
+   },
+   "rarity": {
+    "value": "rare",
+    "displayValue": "Rare",
+    "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+    "value": "Raider",
+    "text": "Teil des Sets Raider.",
+    "backendValue": "Raider"
+   },
+   "introduction": {
+    "chapter": "1",
+    "season": "1",
+    "text": "Chapter 1, Season 1",
+    "backendValue": 1
+   },
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2017-10-26T00:00:00Z",
+   "shopHistory": [
+    "2017-10-26T00:00:00Z",
+    "2017-11-02T00:00:00Z"
+   ]
+  },
+  {
+   "id": "CID_A_001_Athena_Commando_M",
+   "name": "Neon Ninja",
+   "description": "Leuchtet, auch im Dunkeln, sogar sehr hell, und hat eine sehr lange Beschreibung xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "type": {
+    "value": "outfit",
+    "displayValue": "Outfit",
+    "backendValue": "AthenaOutfit"
+   },
+   "rarity": {
+    "value": "legendary",
+    "displayValue": "Legendary",
+    "backendValue": "EFortRarity::Legendary"
+   },
+   "series": null,
+   "set": {
+    "value": "Neon",
+    "text": "Teil des Sets Neon.",
+    "backendValue": "Neon"
+   },
+   "introduction": {
+    "chapter": "1",
+    "season": "1",
+    "text": "Chapter 7, Season 1",
+    "backendValue": 1
+   },
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_m/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_001_athena_commando_m/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": "abc123XYZ_-",
+   "added": "2026-09-15T12:00:00Z",
+   "shopHistory": [
+    "2026-09-20T00:00:00Z"
+   ]
+  },
+  {
+   "id": "CID_A_002_Athena_Commando_F",
+   "name": "Peely Ärger",
+   "description": "Banane, mit Komma, und \"Anführungszeichen\".",
+   "type": {
+    "value": "outfit",
+    "displayValue": "Outfit",
+    "backendValue": "AthenaOutfit"
+   },
+   "rarity": {
+    "value": "epic",
+    "displayValue": "Epic",
+    "backendValue": "EFortRarity::Epic"
+   },
+   "series": null,
+   "set": null,
+   "introduction": {
+    "chapter": "1",
+    "season": "1",
+    "text": "Chapter 7, Season 1",
+    "backendValue": 1
+   },
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_002_athena_commando_f/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2026-10-01T00:00:00Z",
+   "shopHistory": null
+  },
+  {
+   "id": "BID_001_RaiderPack",
+   "name": "Raider-Rucksack",
+   "description": "",
+   "type": {
+    "value": "backpack",
+    "displayValue": "Backpack",
+    "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+    "value": "rare",
+    "displayValue": "Rare",
+    "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+    "value": "Raider",
+    "text": "Teil des Sets Raider.",
+    "backendValue": "Raider"
+   },
+   "introduction": {
+    "chapter": "1",
+    "season": "1",
+    "text": "Chapter 1, Season 1",
+    "backendValue": 1
+   },
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_001_raiderpack/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_001_raiderpack/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2017-10-26T00:00:00Z",
+   "shopHistory": null
+  },
+  {
+   "id": "BID_A_002_Neon",
+   "name": "Neon Rucksack",
+   "description": "",
+   "type": {
+    "value": "backpack",
+    "displayValue": "Backpack",
+    "backendValue": "AthenaBackpack"
+   },
+   "rarity": {
+    "value": "legendary",
+    "displayValue": "Legendary",
+    "backendValue": "EFortRarity::Legendary"
+   },
+   "series": null,
+   "set": {
+    "value": "Neon",
+    "text": "Teil des Sets Neon.",
+    "backendValue": "Neon"
+   },
+   "introduction": {
+    "chapter": "1",
+    "season": "1",
+    "text": "Chapter 7, Season 1",
+    "backendValue": 1
+   },
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/bid_a_002_neon/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/bid_a_002_neon/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2026-09-15T12:00:00Z",
+   "shopHistory": null
+  },
+  {
+   "id": "EID_DanceMoves",
+   "name": "Tanzbewegungen",
+   "description": "",
+   "type": {
+    "value": "emote",
+    "displayValue": "Emote",
+    "backendValue": "AthenaEmote"
+   },
+   "rarity": {
+    "value": "common",
+    "displayValue": "Common",
+    "backendValue": "EFortRarity::Common"
+   },
+   "series": null,
+   "set": null,
+   "introduction": null,
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/eid_dancemoves/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/eid_dancemoves/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": "dQw4w9WgXcQ",
+   "added": "2017-09-01T00:00:00Z",
+   "shopHistory": null
+  },
+  {
+   "id": "Pickaxe_ID_Neon",
+   "name": "../../böse Datei",
+   "description": "",
+   "type": {
+    "value": "pickaxe",
+    "displayValue": "Pickaxe",
+    "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+    "value": "rare",
+    "displayValue": "Rare",
+    "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": {
+    "value": "Neon",
+    "text": "Teil des Sets Neon.",
+    "backendValue": "Neon"
+   },
+   "introduction": {
+    "chapter": "1",
+    "season": "1",
+    "text": "Chapter 7, Season 1",
+    "backendValue": 1
+   },
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_neon/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_neon/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2026-09-16T00:00:00Z",
+   "shopHistory": null
+  },
+  {
+   "id": "Glider_ID_001",
+   "name": "Gleitschirm",
+   "description": "",
+   "type": {
+    "value": "glider",
+    "displayValue": "Glider",
+    "backendValue": "AthenaGlider"
+   },
+   "rarity": {
+    "value": "uncommon",
+    "displayValue": "Uncommon",
+    "backendValue": "EFortRarity::Uncommon"
+   },
+   "series": null,
+   "set": null,
+   "introduction": null,
+   "images": {
+    "smallIcon": "https://fortnite-api.com/images/cosmetics/br/glider_id_001/smallicon.png",
+    "icon": "https://fortnite-api.com/images/cosmetics/br/glider_id_001/icon.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2018-01-01T00:00:00Z",
+   "shopHistory": null
+  },
+  {
+   "id": "Wrap_ID_Fremd",
+   "name": "Fremdbild",
+   "description": "",
+   "type": {
+    "value": "pickaxe",
+    "displayValue": "Pickaxe",
+    "backendValue": "AthenaPickaxe"
+   },
+   "rarity": {
+    "value": "rare",
+    "displayValue": "Rare",
+    "backendValue": "EFortRarity::Rare"
+   },
+   "series": null,
+   "set": null,
+   "introduction": null,
+   "images": {
+    "smallIcon": null,
+    "icon": "https://evil.example.com/x.png",
+    "featured": null,
+    "other": null
+   },
+   "variants": null,
+   "showcaseVideo": null,
+   "added": "2018-01-01T00:00:00Z",
+   "shopHistory": null
+  }
+ ]
+}

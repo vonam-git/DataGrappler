@@ -1,0 +1,71 @@
+[
+ {
+  "id": 0,
+  "name": "aqua_affinity",
+  "displayName": "Aqua Affinity",
+  "maxLevel": 1,
+  "minCost": {
+   "a": 0,
+   "b": 1
+  },
+  "maxCost": {
+   "a": 0,
+   "b": 1
+  },
+  "treasureOnly": false,
+  "curse": false,
+  "exclude": [],
+  "category": "head_armor",
+  "weight": 2,
+  "tradeable": true,
+  "discoverable": true
+ },
+ {
+  "id": 1,
+  "name": "bane_of_arthropods",
+  "displayName": "Bane of Arthropods",
+  "maxLevel": 5,
+  "minCost": {
+   "a": 4,
+   "b": 1
+  },
+  "maxCost": {
+   "a": 4,
+   "b": 1
+  },
+  "treasureOnly": false,
+  "curse": false,
+  "exclude": [
+   "breach",
+   "density",
+   "impaling",
+   "sharpness",
+   "smite"
+  ],
+  "category": "weapon",
+  "weight": 5,
+  "tradeable": true,
+  "discoverable": true
+ },
+ {
+  "id": 2,
+  "name": "binding_curse",
+  "displayName": "Curse of Binding",
+  "maxLevel": 1,
+  "minCost": {
+   "a": 0,
+   "b": 1
+  },
+  "maxCost": {
+   "a": 0,
+   "b": 1
+  },
+  "treasureOnly": true,
+  "curse": true,
+  "exclude": [],
+  "category": "equippable",
+  "weight": 1,
+  "tradeable": true,
+  "discoverable": true
+ }
+]

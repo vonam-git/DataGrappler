@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gamegrab"
+version = "1.0.0"
+description = "Rohdaten-Sammler für die Durchblick-Werkstatt (Modul 141): Spieldaten aus offenen Quellen"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = ["requests>=2.25"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+gamegrab = "gamegrab.cli:main"
+datagrappler = "gamegrab.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["gamegrab*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

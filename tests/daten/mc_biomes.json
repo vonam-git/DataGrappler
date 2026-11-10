@@ -1,0 +1,32 @@
+[
+ {
+  "id": 0,
+  "name": "badlands",
+  "category": "mesa",
+  "temperature": 2.0,
+  "has_precipitation": false,
+  "dimension": "overworld",
+  "displayName": "Badlands",
+  "color": 7254527
+ },
+ {
+  "id": 1,
+  "name": "bamboo_jungle",
+  "category": "jungle",
+  "temperature": 0.95,
+  "has_precipitation": true,
+  "dimension": "overworld",
+  "displayName": "Bamboo Jungle",
+  "color": 7842047
+ },
+ {
+  "id": 2,
+  "name": "basalt_deltas",
+  "category": "nether",
+  "temperature": 2.0,
+  "has_precipitation": false,
+  "dimension": "nether",
+  "displayName": "Basalt Deltas",
+  "color": 0
+ }
+]

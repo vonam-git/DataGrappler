@@ -1,0 +1,14 @@
+{
+ "pc": {
+  "1.21.11": {},
+  "26.1": {
+   "items": "pc/26.1",
+   "blocks": "pc/26.1",
+   "entities": "pc/26.1",
+   "biomes": "pc/26.1",
+   "recipes": "pc/26.1",
+   "enchantments": "pc/26.1",
+   "entityLoot": "pc/1.20"
+  }
+ }
+}

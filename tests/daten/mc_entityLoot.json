@@ -1,0 +1,63 @@
+[
+ {
+  "entity": "cow",
+  "drops": [
+   {
+    "item": "leather",
+    "dropChance": 1,
+    "stackSizeRange": [
+     1,
+     1
+    ]
+   },
+   {
+    "item": "beef",
+    "dropChance": 1,
+    "stackSizeRange": [
+     1,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "entity": "zombie",
+  "drops": [
+   {
+    "item": "rotten_flesh",
+    "dropChance": 1,
+    "stackSizeRange": [
+     1,
+     1
+    ]
+   },
+   {
+    "item": "iron_ingot",
+    "dropChance": 0.008333333333333333,
+    "stackSizeRange": [
+     1,
+     1
+    ],
+    "playerKill": true
+   },
+   {
+    "item": "carrot",
+    "dropChance": 0.008333333333333333,
+    "stackSizeRange": [
+     1,
+     1
+    ],
+    "playerKill": true
+   },
+   {
+    "item": "potato",
+    "dropChance": 0.008333333333333333,
+    "stackSizeRange": [
+     1,
+     1
+    ],
+    "playerKill": true
+   }
+  ]
+ }
+]

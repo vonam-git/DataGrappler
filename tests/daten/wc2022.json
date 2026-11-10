@@ -1,0 +1,172 @@
+{
+ "name": "World Cup 2022",
+ "matches": [
+  {
+   "round": "Matchday 1",
+   "date": "2022-11-20",
+   "time": "19:00",
+   "team1": "Qatar",
+   "team2": "Ecuador",
+   "score": {
+    "ft": [
+     0,
+     2
+    ],
+    "ht": [
+     0,
+     2
+    ]
+   },
+   "goals1": [],
+   "goals2": [
+    {
+     "name": "Enner Valencia",
+     "minute": "16",
+     "penalty": true
+    },
+    {
+     "name": "Enner Valencia",
+     "minute": "31"
+    }
+   ],
+   "group": "Group A",
+   "ground": "Al Bayt Stadium, Al Khor"
+  },
+  {
+   "round": "Matchday 2",
+   "date": "2022-11-21",
+   "time": "19:00",
+   "team1": "Senegal",
+   "team2": "Netherlands",
+   "score": {
+    "ft": [
+     0,
+     2
+    ],
+    "ht": [
+     0,
+     0
+    ]
+   },
+   "goals1": [],
+   "goals2": [
+    {
+     "name": "Cody Gakpo",
+     "minute": "84"
+    },
+    {
+     "name": "Davy Klaassen",
+     "minute": "90+9"
+    }
+   ],
+   "group": "Group A",
+   "ground": "Al Thumama Stadium, Doha"
+  },
+  {
+   "round": "Matchday 12",
+   "date": "2022-12-01",
+   "time": "18:00",
+   "team1": "Canada",
+   "team2": "Morocco",
+   "score": {
+    "ft": [
+     1,
+     2
+    ],
+    "ht": [
+     1,
+     2
+    ]
+   },
+   "goals1": [
+    {
+     "name": "Nayef Aguerd",
+     "minute": "40",
+     "owngoal": true
+    }
+   ],
+   "goals2": [
+    {
+     "name": "Hakim Zyiech",
+     "minute": "4"
+    },
+    {
+     "name": "Youssef En-Nesyri",
+     "minute": "23"
+    }
+   ],
+   "group": "Group F",
+   "ground": "Al Thumama Stadium, Doha"
+  },
+  {
+   "round": "Matchday 6",
+   "date": "2022-11-25",
+   "time": "22:00",
+   "team1": "England",
+   "team2": "USA",
+   "score": [
+    0,
+    0
+   ],
+   "group": "Group B",
+   "ground": "Al Bayt Stadium, Al Khor"
+  },
+  {
+   "round": "Final",
+   "date": "2022-12-18",
+   "time": "18:00",
+   "team1": "Argentina",
+   "team2": "France",
+   "score": {
+    "p": [
+     4,
+     2
+    ],
+    "et": [
+     3,
+     3
+    ],
+    "ft": [
+     2,
+     2
+    ],
+    "ht": [
+     2,
+     0
+    ]
+   },
+   "goals1": [
+    {
+     "name": "Lionel Messi",
+     "minute": "23",
+     "penalty": true
+    },
+    {
+     "name": "Ángel Di María",
+     "minute": "36"
+    },
+    {
+     "name": "Lionel Messi",
+     "minute": "108"
+    }
+   ],
+   "goals2": [
+    {
+     "name": "Kylian Mbappé",
+     "minute": "80",
+     "penalty": true
+    },
+    {
+     "name": "Kylian Mbappé",
+     "minute": "81"
+    },
+    {
+     "name": "Kylian Mbappé",
+     "minute": "118",
+     "penalty": true
+    }
+   ],
+   "ground": "Lusail Iconic Stadium, Lusail"
+  }
+ ]
+}

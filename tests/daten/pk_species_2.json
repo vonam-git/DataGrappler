@@ -1,0 +1,104 @@
+{
+ "id": 2,
+ "name": "ivysaur",
+ "is_legendary": false,
+ "is_mythical": false,
+ "is_baby": false,
+ "evolves_from_species": {
+  "name": "bulbasaur",
+  "url": "/api/v2/pokemon-species/1/"
+ },
+ "evolution_chain": {
+  "url": "/api/v2/evolution-chain/1/"
+ },
+ "generation": {
+  "name": "generation-i",
+  "url": "/api/v2/generation/1/"
+ },
+ "names": [
+  {
+   "name": "フシギソウ",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Fushigisou",
+   "language": {
+    "name": "ja-roma",
+    "url": "/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "이상해풀",
+   "language": {
+    "name": "ko",
+    "url": "/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "妙蛙草",
+   "language": {
+    "name": "zh-hant",
+    "url": "/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Herbizarre",
+   "language": {
+    "name": "fr",
+    "url": "/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Bisaknosp",
+   "language": {
+    "name": "de",
+    "url": "/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Ivysaur",
+   "language": {
+    "name": "es",
+    "url": "/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Ivysaur",
+   "language": {
+    "name": "it",
+    "url": "/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Ivysaur",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "フシギソウ",
+   "language": {
+    "name": "ja",
+    "url": "/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "妙蛙草",
+   "language": {
+    "name": "zh-hans",
+    "url": "/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Ivysaur",
+   "language": {
+    "name": "es-419",
+    "url": "/api/v2/language/14/"
+   }
+  }
+ ]
+}

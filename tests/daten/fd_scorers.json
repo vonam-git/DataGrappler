@@ -1,0 +1,20 @@
+{
+ "scorers": [
+  {
+   "player": {
+    "id": 45,
+    "name": "Harry Kane",
+    "dateOfBirth": "1993-07-28",
+    "nationality": "England",
+    "section": "Offence"
+   },
+   "team": {
+    "id": 5,
+    "name": "FC Bayern München"
+   },
+   "goals": 26,
+   "assists": 8,
+   "penalties": 9
+  }
+ ]
+}

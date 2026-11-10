@@ -1,0 +1,737 @@
+[
+ {
+  "id": "6c164c59-9961-4f6f-956b-f605b5682b00",
+  "index": 38,
+  "period": 1,
+  "minute": 0,
+  "second": 25,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 24085,
+   "name": "Pervis Josué Estupiñán Tenorio"
+  },
+  "position": {
+   "id": 6,
+   "name": "Left Back"
+  }
+ },
+ {
+  "id": "fe34eac5-b361-4919-8c82-dbb08eb6a76a",
+  "index": 89,
+  "period": 1,
+  "minute": 1,
+  "second": 26,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124506,
+   "name": "Pedro Miguel Correia"
+  },
+  "position": {
+   "id": 7,
+   "name": "Right Wing Back"
+  }
+ },
+ {
+  "id": "acb99926-d60f-4cf1-af11-51ac434ecf3d",
+  "index": 330,
+  "period": 1,
+  "minute": 9,
+  "second": 24,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124503,
+   "name": "Bassam Hisham Al Rawi"
+  },
+  "position": {
+   "id": 3,
+   "name": "Right Center Back"
+  }
+ },
+ {
+  "id": "aad1c00d-7303-466f-8b47-2044e40cd381",
+  "index": 429,
+  "period": 1,
+  "minute": 14,
+  "second": 17,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124496,
+   "name": "Saad Abdullah Al Sheeb"
+  },
+  "position": {
+   "id": 1,
+   "name": "Goalkeeper"
+  },
+  "foul_committed": {
+   "card": {
+    "id": 7,
+    "name": "Yellow Card"
+   },
+   "penalty": true
+  }
+ },
+ {
+  "id": "01154885-90ea-4577-9c0d-9bf97721a323",
+  "index": 431,
+  "period": 1,
+  "minute": 15,
+  "second": 49,
+  "type": {
+   "id": 16,
+   "name": "Shot"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 28559,
+   "name": "Enner Remberto Valencia Lastra"
+  },
+  "position": {
+   "id": 22,
+   "name": "Right Center Forward"
+  },
+  "shot": {
+   "outcome": {
+    "id": 97,
+    "name": "Goal"
+   },
+   "type": {
+    "id": 88,
+    "name": "Penalty"
+   }
+  }
+ },
+ {
+  "id": "84085ca6-7d65-4c74-9714-029660267db1",
+  "index": 505,
+  "period": 1,
+  "minute": 18,
+  "second": 45,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124514,
+   "name": "Abdulaziz Hatem Mohammed Abdullah"
+  },
+  "position": {
+   "id": 15,
+   "name": "Left Center Midfield"
+  }
+ },
+ {
+  "id": "dae26577-529c-4ac2-9e5f-7360402045e1",
+  "index": 541,
+  "period": 1,
+  "minute": 21,
+  "second": 6,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124495,
+   "name": "Almoez Ali Zainalabiddin Abdulla"
+  },
+  "position": {
+   "id": 22,
+   "name": "Right Center Forward"
+  },
+  "foul_committed": {
+   "card": {
+    "id": 7,
+    "name": "Yellow Card"
+   }
+  }
+ },
+ {
+  "id": "611dca51-22cd-43d7-bc06-f8e8d420fce3",
+  "index": 636,
+  "period": 1,
+  "minute": 23,
+  "second": 43,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 24085,
+   "name": "Pervis Josué Estupiñán Tenorio"
+  },
+  "position": {
+   "id": 6,
+   "name": "Left Back"
+  }
+ },
+ {
+  "id": "63b6b453-2adf-401b-bf71-aba1e941c47d",
+  "index": 684,
+  "period": 1,
+  "minute": 24,
+  "second": 44,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124900,
+   "name": "Homam Alamin Ahmed"
+  },
+  "position": {
+   "id": 8,
+   "name": "Left Wing Back"
+  }
+ },
+ {
+  "id": "53852ddf-9980-469d-adbe-f637e3bc965a",
+  "index": 849,
+  "period": 1,
+  "minute": 28,
+  "second": 7,
+  "type": {
+   "id": 16,
+   "name": "Shot"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 12803,
+   "name": "Romario Andrés Ibarra Mina"
+  },
+  "position": {
+   "id": 16,
+   "name": "Left Midfield"
+  },
+  "shot": {
+   "outcome": {
+    "id": 98,
+    "name": "Off T"
+   },
+   "type": {
+    "id": 87,
+    "name": "Open Play"
+   }
+  }
+ },
+ {
+  "id": "f781b70e-3b9e-406b-9ff5-cd2360c37be2",
+  "index": 863,
+  "period": 1,
+  "minute": 28,
+  "second": 29,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 37726,
+   "name": "Moisés Isaac Caicedo Corozo"
+  },
+  "position": {
+   "id": 11,
+   "name": "Left Defensive Midfield"
+  },
+  "foul_committed": {
+   "card": {
+    "id": 7,
+    "name": "Yellow Card"
+   }
+  }
+ },
+ {
+  "id": "c3624e59-7177-4509-a421-e1eb8ce13f88",
+  "index": 922,
+  "period": 1,
+  "minute": 30,
+  "second": 44,
+  "type": {
+   "id": 16,
+   "name": "Shot"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 28559,
+   "name": "Enner Remberto Valencia Lastra"
+  },
+  "position": {
+   "id": 22,
+   "name": "Right Center Forward"
+  },
+  "shot": {
+   "outcome": {
+    "id": 97,
+    "name": "Goal"
+   },
+   "type": {
+    "id": 87,
+    "name": "Open Play"
+   }
+  }
+ },
+ {
+  "id": "a86be18c-5fb6-4b0f-b0a3-0665578fc2db",
+  "index": 952,
+  "period": 1,
+  "minute": 32,
+  "second": 40,
+  "type": {
+   "id": 16,
+   "name": "Shot"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124494,
+   "name": "Abdelkarim Hassan Al Haj Fadlalla"
+  },
+  "position": {
+   "id": 5,
+   "name": "Left Center Back"
+  },
+  "shot": {
+   "outcome": {
+    "id": 98,
+    "name": "Off T"
+   },
+   "type": {
+    "id": 87,
+    "name": "Open Play"
+   }
+  }
+ },
+ {
+  "id": "5172743c-e941-410d-a84d-0b06f76200ac",
+  "index": 958,
+  "period": 1,
+  "minute": 33,
+  "second": 21,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124506,
+   "name": "Pedro Miguel Correia"
+  },
+  "position": {
+   "id": 7,
+   "name": "Right Wing Back"
+  }
+ },
+ {
+  "id": "08d34f5b-8dec-407d-a8f1-1057d9516bb9",
+  "index": 1049,
+  "period": 1,
+  "minute": 35,
+  "second": 47,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124492,
+   "name": "Karim Boudiaf"
+  },
+  "position": {
+   "id": 10,
+   "name": "Center Defensive Midfield"
+  },
+  "foul_committed": {
+   "card": {
+    "id": 7,
+    "name": "Yellow Card"
+   }
+  }
+ },
+ {
+  "id": "d4350a88-6e65-4872-b561-7f04d63539c6",
+  "index": 1094,
+  "period": 1,
+  "minute": 38,
+  "second": 51,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 28559,
+   "name": "Enner Remberto Valencia Lastra"
+  },
+  "position": {
+   "id": 22,
+   "name": "Right Center Forward"
+  }
+ },
+ {
+  "id": "e4da1e42-ca66-455a-b22c-eda543d9020a",
+  "index": 1296,
+  "period": 1,
+  "minute": 45,
+  "second": 16,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 37737,
+   "name": "Angelo Smit Preciado Quiñónez"
+  },
+  "position": {
+   "id": 2,
+   "name": "Right Back"
+  }
+ },
+ {
+  "id": "1a3c5e30-321d-4ea1-9bec-42b67d6a9017",
+  "index": 1404,
+  "period": 1,
+  "minute": 47,
+  "second": 28,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124514,
+   "name": "Abdulaziz Hatem Mohammed Abdullah"
+  },
+  "position": {
+   "id": 15,
+   "name": "Left Center Midfield"
+  }
+ },
+ {
+  "id": "ca05d1a6-4c7b-4c18-8a96-65a505e869cd",
+  "index": 1463,
+  "period": 1,
+  "minute": 48,
+  "second": 51,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 37737,
+   "name": "Angelo Smit Preciado Quiñónez"
+  },
+  "position": {
+   "id": 2,
+   "name": "Right Back"
+  }
+ },
+ {
+  "id": "f98af725-2736-47e2-aa50-9b5bc5625f7b",
+  "index": 1481,
+  "period": 1,
+  "minute": 49,
+  "second": 22,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 23830,
+   "name": "Jhegson Sebastián Méndez Carabalí"
+  },
+  "position": {
+   "id": 9,
+   "name": "Right Defensive Midfield"
+  }
+ },
+ {
+  "id": "661531f6-17c2-4898-a780-a61b4cbf95a9",
+  "index": 1499,
+  "period": 1,
+  "minute": 49,
+  "second": 51,
+  "type": {
+   "id": 16,
+   "name": "Shot"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124495,
+   "name": "Almoez Ali Zainalabiddin Abdulla"
+  },
+  "position": {
+   "id": 22,
+   "name": "Right Center Forward"
+  },
+  "shot": {
+   "outcome": {
+    "id": 98,
+    "name": "Off T"
+   },
+   "type": {
+    "id": 87,
+    "name": "Open Play"
+   }
+  }
+ },
+ {
+  "id": "8283da45-b6dd-4f9b-aa9c-6ffbc6c71b31",
+  "index": 1669,
+  "period": 2,
+  "minute": 47,
+  "second": 27,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 23830,
+   "name": "Jhegson Sebastián Méndez Carabalí"
+  },
+  "position": {
+   "id": 9,
+   "name": "Right Defensive Midfield"
+  }
+ },
+ {
+  "id": "b0754c68-35bd-4a55-abd6-9c5373ef12a9",
+  "index": 1790,
+  "period": 2,
+  "minute": 50,
+  "second": 15,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124492,
+   "name": "Karim Boudiaf"
+  },
+  "position": {
+   "id": 10,
+   "name": "Center Defensive Midfield"
+  },
+  "foul_committed": {
+   "advantage": true
+  }
+ },
+ {
+  "id": "b34357d4-f695-4549-94fe-aafd43d5804a",
+  "index": 1855,
+  "period": 2,
+  "minute": 51,
+  "second": 26,
+  "type": {
+   "id": 16,
+   "name": "Shot"
+  },
+  "team": {
+   "id": 3565,
+   "name": "Ecuador"
+  },
+  "player": {
+   "id": 37737,
+   "name": "Angelo Smit Preciado Quiñónez"
+  },
+  "position": {
+   "id": 2,
+   "name": "Right Back"
+  },
+  "shot": {
+   "outcome": {
+    "id": 98,
+    "name": "Off T"
+   },
+   "type": {
+    "id": 87,
+    "name": "Open Play"
+   }
+  }
+ },
+ {
+  "id": "7757f325-253d-4f9d-a919-c1fc0293bc63",
+  "index": 1920,
+  "period": 2,
+  "minute": 52,
+  "second": 44,
+  "type": {
+   "id": 22,
+   "name": "Foul Committed"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124503,
+   "name": "Bassam Hisham Al Rawi"
+  },
+  "position": {
+   "id": 3,
+   "name": "Right Center Back"
+  },
+  "foul_committed": {
+   "advantage": true
+  }
+ },
+ {
+  "id": "70734a3c-66ec-495c-8a1d-30a771406518",
+  "index": 5,
+  "period": 1,
+  "minute": 0,
+  "second": 0,
+  "type": {
+   "id": 30,
+   "name": "Pass"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124495,
+   "name": "Almoez Ali Zainalabiddin Abdulla"
+  },
+  "position": {
+   "id": 22,
+   "name": "Right Center Forward"
+  }
+ },
+ {
+  "id": "e13f916d-367e-4223-9c22-8c9529ec23b7",
+  "index": 8,
+  "period": 1,
+  "minute": 0,
+  "second": 2,
+  "type": {
+   "id": 30,
+   "name": "Pass"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 40784,
+   "name": "Akram Hassan Afif"
+  },
+  "position": {
+   "id": 24,
+   "name": "Left Center Forward"
+  }
+ },
+ {
+  "id": "35397ea8-02ce-4b94-a457-3ef7e7d4d4cf",
+  "index": 11,
+  "period": 1,
+  "minute": 0,
+  "second": 4,
+  "type": {
+   "id": 30,
+   "name": "Pass"
+  },
+  "team": {
+   "id": 3566,
+   "name": "Qatar"
+  },
+  "player": {
+   "id": 124488,
+   "name": "Hassan Khalid Al Heidos"
+  },
+  "position": {
+   "id": 13,
+   "name": "Right Center Midfield"
+  }
+ }
+]

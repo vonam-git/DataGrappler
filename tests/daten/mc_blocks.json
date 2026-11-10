@@ -1,0 +1,136 @@
+[
+ {
+  "id": 1,
+  "name": "stone",
+  "displayName": "Stone",
+  "hardness": 1.5,
+  "resistance": 6.0,
+  "stackSize": 64,
+  "diggable": true,
+  "material": "mineable/pickaxe",
+  "transparent": false,
+  "emitLight": 0,
+  "filterLight": 15,
+  "defaultState": 1,
+  "minStateId": 1,
+  "maxStateId": 1,
+  "states": [],
+  "harvestTools": {
+   "914": true,
+   "919": true,
+   "924": true,
+   "929": true,
+   "934": true,
+   "939": true,
+   "944": true
+  },
+  "drops": [
+   35
+  ],
+  "boundingBox": "block"
+ },
+ {
+  "id": 9,
+  "name": "dirt",
+  "displayName": "Dirt",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "stackSize": 64,
+  "diggable": true,
+  "material": "mineable/shovel",
+  "transparent": false,
+  "emitLight": 0,
+  "filterLight": 15,
+  "defaultState": 10,
+  "minStateId": 10,
+  "maxStateId": 10,
+  "states": [],
+  "drops": [
+   28
+  ],
+  "boundingBox": "block"
+ },
+ {
+  "id": 12,
+  "name": "cobblestone",
+  "displayName": "Cobblestone",
+  "hardness": 2.0,
+  "resistance": 6.0,
+  "stackSize": 64,
+  "diggable": true,
+  "material": "mineable/pickaxe",
+  "transparent": false,
+  "emitLight": 0,
+  "filterLight": 15,
+  "defaultState": 14,
+  "minStateId": 14,
+  "maxStateId": 14,
+  "states": [],
+  "harvestTools": {
+   "914": true,
+   "919": true,
+   "924": true,
+   "929": true,
+   "934": true,
+   "939": true,
+   "944": true
+  },
+  "drops": [
+   35
+  ],
+  "boundingBox": "block"
+ },
+ {
+  "id": 13,
+  "name": "oak_planks",
+  "displayName": "Oak Planks",
+  "hardness": 2.0,
+  "resistance": 3.0,
+  "stackSize": 64,
+  "diggable": true,
+  "material": "mineable/axe",
+  "transparent": false,
+  "emitLight": 0,
+  "filterLight": 15,
+  "defaultState": 15,
+  "minStateId": 15,
+  "maxStateId": 15,
+  "states": [],
+  "drops": [
+   36
+  ],
+  "boundingBox": "block"
+ },
+ {
+  "id": 49,
+  "name": "oak_log",
+  "displayName": "Oak Log",
+  "hardness": 2.0,
+  "resistance": 2.0,
+  "stackSize": 64,
+  "diggable": true,
+  "material": "mineable/axe",
+  "transparent": false,
+  "emitLight": 0,
+  "filterLight": 15,
+  "defaultState": 137,
+  "minStateId": 136,
+  "maxStateId": 138,
+  "states": [
+   {
+    "name": "axis",
+    "type": "enum",
+    "num_values": 3,
+    "values": [
+     "x",
+     "y",
+     "z"
+    ]
+   }
+  ],
+  "drops": [
+   134
+  ],
+  "boundingBox": "block"
+ }
+]

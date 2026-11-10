@@ -1,0 +1,101 @@
+{
+ "id": 1,
+ "name": "bulbasaur",
+ "is_legendary": false,
+ "is_mythical": false,
+ "is_baby": false,
+ "evolves_from_species": null,
+ "evolution_chain": {
+  "url": "/api/v2/evolution-chain/1/"
+ },
+ "generation": {
+  "name": "generation-i",
+  "url": "/api/v2/generation/1/"
+ },
+ "names": [
+  {
+   "name": "フシギダネ",
+   "language": {
+    "name": "ja-hrkt",
+    "url": "/api/v2/language/1/"
+   }
+  },
+  {
+   "name": "Fushigidane",
+   "language": {
+    "name": "ja-roma",
+    "url": "/api/v2/language/2/"
+   }
+  },
+  {
+   "name": "이상해씨",
+   "language": {
+    "name": "ko",
+    "url": "/api/v2/language/3/"
+   }
+  },
+  {
+   "name": "妙蛙種子",
+   "language": {
+    "name": "zh-hant",
+    "url": "/api/v2/language/4/"
+   }
+  },
+  {
+   "name": "Bulbizarre",
+   "language": {
+    "name": "fr",
+    "url": "/api/v2/language/5/"
+   }
+  },
+  {
+   "name": "Bisasam",
+   "language": {
+    "name": "de",
+    "url": "/api/v2/language/6/"
+   }
+  },
+  {
+   "name": "Bulbasaur",
+   "language": {
+    "name": "es",
+    "url": "/api/v2/language/7/"
+   }
+  },
+  {
+   "name": "Bulbasaur",
+   "language": {
+    "name": "it",
+    "url": "/api/v2/language/8/"
+   }
+  },
+  {
+   "name": "Bulbasaur",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   }
+  },
+  {
+   "name": "フシギダネ",
+   "language": {
+    "name": "ja",
+    "url": "/api/v2/language/11/"
+   }
+  },
+  {
+   "name": "妙蛙种子",
+   "language": {
+    "name": "zh-hans",
+    "url": "/api/v2/language/12/"
+   }
+  },
+  {
+   "name": "Bulbasaur",
+   "language": {
+    "name": "es-419",
+    "url": "/api/v2/language/14/"
+   }
+  }
+ ]
+}
