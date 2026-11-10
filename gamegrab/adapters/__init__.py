@@ -9,7 +9,7 @@ from typing import Dict
 
 from .base import Adapter
 
-_REIHENFOLGE = ["fortnite", "minecraft", "fussball", "pokemon", "gtav", "valorant", "mtg"]
+_REIHENFOLGE = ["fortnite", "minecraft", "fussball", "pokemon", "gtav", "valorant"]
 
 
 def alle_adapter() -> Dict[str, Adapter]:

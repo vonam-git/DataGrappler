@@ -14,7 +14,7 @@ Diesen Ordner ziehst du direkt in die Werkstatt von [Durchblick](https://github.
 | Fussball | `gamegrab fussball` | openfootball (CC0), optional football-data.org, StatsBomb | – (echte Daten) |
 | Pokémon | `gamegrab pokemon` | PokéAPI | 3–7 |
 | GTA V (nur Fahrzeuge) | `gamegrab gtav` | FiveM-Doku | **18** |
-| Valorant, Magic | `gamegrab valorant`, `gamegrab mtg` | – | Gerüst, noch nicht umgesetzt |
+| Valorant | `gamegrab valorant` | valorant-api.com (Community) | 16 · Gerüst, noch nicht umgesetzt |
 
 ---
 
@@ -183,7 +183,7 @@ class MeinSpiel(Adapter):
 ```
 
 Für die Lösung (`--normalisiert`) zusätzlich `loesung_schema` und `loesung()` ergänzen (siehe `pokemon.py`).
-Gerüste mit Hinweisen zu den Quellen liegen bereits in `valorant.py` und `mtg.py`.
+Ein Gerüst mit Hinweisen zur Quelle liegt bereits in `valorant.py`.
 
 ## Entwicklung
 

@@ -191,11 +191,11 @@ def test_wappen_ist_png_128():
 def test_alle_adapter_erfuellen_vertrag():
     adapter = alle_adapter()
     assert list(adapter)[:5] == ["fortnite", "minecraft", "fussball", "pokemon", "gtav"]
-    assert "zelda" not in adapter
+    assert "zelda" not in adapter and "mtg" not in adapter
     for name, a in adapter.items():
         assert isinstance(a, Adapter) and a.name == name
         assert a.titel and a.alter and a.entitaeten and a.erlaubte_hosts and a.lizenz
-        assert 0 < a.rate <= 2.0 or name == "mtg"
+        assert 0 < a.rate <= 2.0
         for spalten in a.entitaeten.values():
             assert spalten[:2] == ["id", "name"] or name == "fussball"
         for tabelle, info in a.loesung_schema.items():
